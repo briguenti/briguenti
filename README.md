@@ -28,6 +28,9 @@
 	<a href="mailto:vinipais26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.facebook.com/viniciuslol" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br><br>
-	![Snake animation](https://github.com/briguenti/briguenti/blob/output/github-contribution-grid-snake.svg)
+</div>
+![Snake animation](https://github.com/briguenti/briguenti/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="display: inline_block"><br>
 	<img align="center" src="https://tenor.com/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236.gif">
 </div>
+	
