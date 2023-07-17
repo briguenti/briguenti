@@ -2,11 +2,6 @@
 <p> 🧔🏻 Me chamo Vinicius Briguenti, sou formado em Análise e Desenvolvimento de Sistemas pela ESAMC Sorocaba.
 <br>
 💻 Atualmente trabalho como QA na empresa Cadmus Soluções em TI.
-	<div align="center">
-  	<a href="https://github.com/briguenti/briguenti">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=briguenti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briguenti&layout=compact&langs_count=7&theme=merko"/>
-	</div>
 </p>
 
 <div align="center" style="display: inline_block"><br>
